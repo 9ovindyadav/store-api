@@ -2,10 +2,11 @@
   "name": "store-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "build": "npm install"
   },
   "author": "",
   "license": "ISC",
@@ -17,5 +18,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
+  },
+  "engine":{
+    "node":"^14.17.1"
   }
 }
