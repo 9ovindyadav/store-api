@@ -1,8 +1,9 @@
 # Store API
 
 This API will give you the details of products available in the Stores.
-Database - MongoDB Atlas
-Server - NodeJS
+
+#### Database - MongoDB Atlas
+#### Server - NodeJS
 
 #### Local setup
 
